@@ -1,0 +1,24 @@
+{
+  "name": "vuessr",
+  "version": "1.0.0",
+  "description": "VueSSR服务端渲染",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csz-Seven/VueSSR.git"
+  },
+  "author": "Ricky.Lai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csz-Seven/VueSSR/issues"
+  },
+  "homepage": "https://github.com/csz-Seven/VueSSR#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "vue": "^2.5.17",
+    "vue-server-renderer": "^2.5.17"
+  }
+}
